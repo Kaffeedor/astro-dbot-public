@@ -45,7 +45,7 @@ Bot and Website for Radio Astronomy Stats, Calculators and Observing with Telesc
 # Credits
 The [Radio Astronomy and Space](https://discord.gg/NW7HGgq) Discord server.
 (Technobird22)[https://github.com/technobird22]
-(Fedor T.)[]
+(Fedor)[https://github.com/Kaffeedor]
 
 People who will probably contribute or/and help too or have already:
 [Apostolos](https://github.com/0xCoto)
