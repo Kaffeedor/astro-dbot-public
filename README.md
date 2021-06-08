@@ -11,7 +11,7 @@ Bot and Website for Radio Astronomy Stats, Calculators and Observing with Telesc
     1c. Graphs
   2. Radio Astro Calculators and Converters
     2a. Freq>Wavelenght and back
-    2b. Flux n Gain calculator (SEFD Calc)[https://docs.google.com/spreadsheets/d/1zqM1Ftmfyo9RGtkTQfc_viQrmFq9LVnR4As_9rnlG6o/edit#gid=22076146]
+    2b. Flux n Gain calculator [SEFD Calc](https://docs.google.com/spreadsheets/d/1zqM1Ftmfyo9RGtkTQfc_viQrmFq9LVnR4As_9rnlG6o/edit#gid=22076146)
   3. Linktree
     3a. FRBStats
     3b. Camerons Website
@@ -33,13 +33,13 @@ Bot and Website for Radio Astronomy Stats, Calculators and Observing with Telesc
 
 
 # Credits
-The (Radio Astronomy and Space)[https://discord.gg/NW7HGgq] Discord server.
+The [Radio Astronomy and Space](https://discord.gg/NW7HGgq) Discord server.
 (Technobird22)[https://github.com/technobird22]
 (Fedor T.)[]
 
 People who will probably contribute or/and help too or have already:
-(Apostolos)[https://github.com/0xCoto]
-(Cameron)[https://github.com/Cameron-Van-Eck]
+[Apostolos](https://github.com/0xCoto)
+[Cameron](https://github.com/Cameron-Van-Eck)
 
 Tools and Repos:
 **FRBStats**
