@@ -26,11 +26,8 @@ Bot and Website for Radio Astronomy Stats, Calculators and Observing with Telesc
     7c. Observing with these Telscope + a Scheduler
     7d. Telscopes:
       -
-    
 
 ## To Do:
-
-
 
 # Credits
 The [Radio Astronomy and Space](https://discord.gg/NW7HGgq) Discord server.
@@ -42,6 +39,8 @@ People who will probably contribute or/and help too or have already:
 [Cameron](https://github.com/Cameron-Van-Eck)
 
 Tools and Repos:
+
 **FRBStats**
+
   [Website](https://www.herta-experiment.org/frbstats/)
   [Github](https://github.com/HeRTA/FRBSTATS)
