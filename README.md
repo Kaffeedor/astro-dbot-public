@@ -12,19 +12,16 @@ Bot and Website for Radio Astronomy Stats, Calculators and Observing with Telesc
     1b. General Stats
 
     1c. Graphs
-
   2. Radio Astro Calculators and Converters
 
     2a. Freq>Wavelenght and back
 
     2b. Flux n Gain calculator [SEFD Calc](https://docs.google.com/spreadsheets/d/1zqM1Ftmfyo9RGtkTQfc_viQrmFq9LVnR4As_9rnlG6o/edit#gid=22076146)
-
   3. Linktree
 
     3a. FRBStats
 
     3b. Camerons Website
-
   4. Radio and Visual Maps of the sky and object Finder
 
   6. General Stats
@@ -32,7 +29,6 @@ Bot and Website for Radio Astronomy Stats, Calculators and Observing with Telesc
     5a. Sun like Ham The Man bot
 
     5b. Radio Interference at location?
-
   7. Telescope Network
 
     7a. Interferomter Options with Local groups
@@ -44,7 +40,6 @@ Bot and Website for Radio Astronomy Stats, Calculators and Observing with Telesc
     7c. Observing with these Telscope + a Scheduler
 
     7d. Telscopes:
-    
 ## To Do:
 
 # Credits
