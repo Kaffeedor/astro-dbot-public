@@ -1,5 +1,6 @@
 # _About this repo_
 *This repo is for viewing the readme, viewing some versions of the already made code and for making suggestions or bringing in ideas to the currently private main repository.*
+*THIS IS NOT ANYWHERE NEAR THE CURRENTLY PRIVATE ORIGNAL ONE*
 
 # Astro Discord Bot
 A discord bot that can help out with general visual and radio astronomy.
